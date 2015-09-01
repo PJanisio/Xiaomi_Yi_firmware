@@ -47,3 +47,27 @@
  * Improvements in the reset camera beeping
  * Bugs in the photos and videos shooting are fixed
  * Bugs in the USB mode are fixed
+  
+## 1.0.12
+
+ * Upgrades camera wifi transmission rate and stability, improves the experience when connecting to a mobile phone.
+ * Upgrades camera photo-taking feature, faster daily usage.
+ * Makes power LED blinks during photo or video recording, makes selfie more convenient.
+ * Fixes SD card related issues, and upgrades stability.
+ * Fixes the issue of background noise when WiFi is enabled.
+ * Fixes firmware upgrade failures.
+ * Fixes emergency backup feature preventing normal power off.
+ 
+## 1.0.9
+
+ * Added image/video rotation function
+ * Added emergency file automatic backup
+ * Adjusted time stamp option
+ * Fixed USB information error
+ * Fixed charging light that does not change during charging
+ * Fixed Wi-Fi connectivity problem
+ * Adjusted Wi-Fi function to achieve more stable connectivity
+ * Improved mobile app and camera connectivity stability
+ * Fixed mobile app file management instability
+ * 
+ 
