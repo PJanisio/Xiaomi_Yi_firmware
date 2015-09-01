@@ -1,4 +1,4 @@
-## Xiaomi Yi official firmwares
+## Actual firmware: 1.2.12 (26.08.2015)
 
 Only positive checked official Yi firmwares for all series of Xiaomi cameras, which will not break your cam.
 
