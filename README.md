@@ -4,6 +4,7 @@ Only positive checked official Yi firmwares for all series of Xiaomi cameras, wh
 
  * [How to install firmware?](http://www.xiaoyi.com/home/guide-en.html)
  * [Firmware changelog](version changelog.md)
+ * [Check most updated firmware version and md5 basing of your camera serial number](http://sportsapi.xiaoyi.com/firmware/download?serialNumber=Z23L507S0189776)
 
 
 
