@@ -1,6 +1,6 @@
 # Firmware changelog
 
-## 1.2.12
+## 1.2.12 (26.08.2015)
 
  * Added Photos folder while taking photo in time-lapse and Burst mode;
  * Optimized the power-svaing mode, in order to increase the camera working time;
@@ -11,7 +11,7 @@
  * Fixed no preview video in app after reconnecting camera;
  * Fixed duration difference between preview video and the actual video file in time-lapse mode;
 
-## 1.2.10
+## 1.2.10 (11.08.2015)
 
  * Added the camera information into video
  * Optimized the wifi module to improve the stability of the wifi connection with iphone
@@ -22,13 +22,13 @@
  * Fixed unable to stop alerting of buzzer while finding the camera.
  * Fixed the anomalies coursed by taking photo via app, while finding the camera
 
-## 1.2.6
+## 1.2.6 (10.07.2015)
 
  * Fix freezing issue when booting camera
  * Fix firmware upgrade problem when terminating app while uploading
  * Fix ratio problem (4:3 instead of 16:9) of burst shot
 
-## 1.2.0
+## 1.2.0 (20.06.2015)
 
  * Ability to cancel already launched "Delayed photo"
  * Live view video improved
@@ -37,7 +37,7 @@
  * Fixed beeping issue after failed flash
  * Fixed bootup lockout caused by some SD cards
 
-## 1.1.0
+## 1.1.0 (05.07.2015)
 
  * Improvements in the wi-fi module to be more stable
  * Improvements in the video recording module to avoid freezing issues
@@ -48,7 +48,7 @@
  * Bugs in the photos and videos shooting are fixed
  * Bugs in the USB mode are fixed
   
-## 1.0.12
+## 1.0.12 (16.05.2015)
 
  * Upgrades camera wifi transmission rate and stability, improves the experience when connecting to a mobile phone.
  * Upgrades camera photo-taking feature, faster daily usage.
@@ -58,7 +58,7 @@
  * Fixes firmware upgrade failures.
  * Fixes emergency backup feature preventing normal power off.
  
-## 1.0.9
+## 1.0.9 (16.04.2015)
 
  * Added image/video rotation function
  * Added emergency file automatic backup
