@@ -2,6 +2,7 @@
 
 ## 1.2.12 (26.08.2015)
 
+ * Added 2K resolution;
  * Added Photos folder while taking photo in time-lapse and Burst mode;
  * Optimized the power-svaing mode, in order to increase the camera working time;
  * Optimized the hint sound and LED light, helping to recognize the camera status;
