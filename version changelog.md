@@ -2,7 +2,7 @@
 
 ## 1.2.13 (22.09.2015)
 
- * TBD
+ * Fixed shutting down of camera during downloading or playing the video/photos
 
 ## 1.2.12 (26.08.2015)
 
