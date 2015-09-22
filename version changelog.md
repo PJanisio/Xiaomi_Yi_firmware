@@ -1,5 +1,9 @@
 # Firmware changelog
 
+## 1.2.13 (22.09.2015)
+
+ * TBD
+
 ## 1.2.12 (26.08.2015)
 
  * Added 2K resolution;

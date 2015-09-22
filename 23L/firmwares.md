@@ -1,5 +1,6 @@
 Version | bin size (b) | md5 checksum  
 --- | --- | ---
+[1.2.13](https://drive.google.com/open?id=0B_eejsYvd9p1VjJQdDFtWHFjWDQ)  | 46065664 | c20c0bc925ef7a534ed93adda34038c9 
 [1.2.12](https://drive.google.com/open?id=0B_eejsYvd9p1RkNqN01GTHBmZms)  | 46065664 | c5b61f5afe50288b57896fac2b63fcb6  
 [1.2.10](https://drive.google.com/open?id=0B_eejsYvd9p1bW56NThGSFptM2s) | 46067712 | 137ffd5387f0d0c08edfcde3ff20aabc  
 [1.2.6](https://drive.google.com/open?id=0B_eejsYvd9p1bTFyNXpwZEtMYTQ)	  | 46057472 | 8bf10d897ecfa4f08026e73519d1b830  
